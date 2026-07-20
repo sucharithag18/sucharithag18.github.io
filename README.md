@@ -4,13 +4,11 @@
 
 **Data Engineer · AI/ML Engineer · Data Scientist · Analytics Engineer · BI Analyst**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sucharitha1812.github.io-d4a843?style=flat-square&logo=github)](https://sucharitha1812.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sucharitha--gaddam-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sucharitha-gaddam)
-[![Email](https://img.shields.io/badge/Email-sucharitha1812%40gmail.com-d4a843?style=flat-square&logo=gmail)](mailto:sucharitha1812@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sucharitha1812-333?style=flat-square&logo=github)](https://github.com/sucharitha1812)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sucharithag18.github.io-d4a843?style=flat-square&logo=github)](https://sucharithag18.github.io)
+[![Email](https://img.shields.io/badge/Email-sucharithag18%40gmail.com-d4a843?style=flat-square&logo=gmail)](mailto:sucharithag18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sucharithag18-333?style=flat-square&logo=github)](https://github.com/sucharithag18)
 
 M.S. in Artificial Intelligence and Business Analytics · University of South Florida · **GPA 4.0**
-4+ years production experience · 22 end-to-end projects · Open to work
 
 </div>
 
@@ -103,11 +101,11 @@ I build data systems and AI applications end-to-end — from Airflow pipelines a
 ## Education
 
 **M.S. in Artificial Intelligence and Business Analytics**
-University of South Florida · Tampa, FL · Aug 2024 – May 2026 · **GPA 4.0 / 4.0**
+University of South Florida · Tampa, FL ·  · **GPA 4.0 / 4.0**
 
 Coursework: Machine Learning · Deep Learning · Big Data · Data Warehousing · Advanced Database Systems · Cloud Solutions Architecture · Data Visualization · Business Statistics
 
-**Certifications:** AWS Cloud Practitioner · Java DevOps · Agile Methodologies · Cybersecurity in SDLC · Modern Database Systems
+
 
 ---
 
