@@ -2,13 +2,17 @@
 
 # Sucharitha Reddy Gaddam
 
-**Data Engineer · AI/ML Engineer · Data Scientist · Analytics Engineer · BI Analyst**
+**AI/ML Engineer · Generative AI · LLM Engineering · AI Platforms**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sucharithag18.github.io-d4a843?style=flat-square&logo=github)](https://sucharithag18.github.io)
-[![Email](https://img.shields.io/badge/Email-sucharithag18%40gmail.com-d4a843?style=flat-square&logo=gmail)](mailto:sucharithag18@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-sucharithagaddam18%40gmail.com-d4a843?style=flat-square&logo=gmail)](mailto:sucharithagaddam18@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sucharitha22-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sucharitha22)
+
 [![GitHub](https://img.shields.io/badge/GitHub-sucharithag18-333?style=flat-square&logo=github)](https://github.com/sucharithag18)
 
-M.S. in Artificial Intelligence and Business Analytics · University of South Florida · **GPA 4.0**
+**M.S. in Artificial Intelligence and Business Analytics · University of South Florida**
 
 </div>
 
@@ -16,19 +20,22 @@ M.S. in Artificial Intelligence and Business Analytics · University of South Fl
 
 ## About
 
-I build data systems and AI applications end-to-end — from Airflow pipelines and dbt marts to LangGraph multi-agent systems and full-stack RAG platforms. 4+ years of production experience at Infosys and USF, and 22 GitHub projects spanning every layer of the modern data and AI stack.
+AI/ML Engineer with 5+ years of experience building machine learning, Generative AI, and scalable AI systems across Meta and Amazon.
 
-**Open to:** Data Engineer, Analytics Engineer, AI/ML Engineer, GenAI Engineer, Data Scientist, Data Analyst, BI Analyst, Business Analyst, ETL Developer, Cloud Data Engineer, LLM Application Engineer.
+My professional work spans LLM post-training, RLHF/DPO, RAG, distributed training, model serving, inference optimization, and cloud-native MLOps.
+
+This portfolio contains a mix of personal and academic projects exploring agentic AI, RAG, machine learning, reinforcement learning, streaming systems, databases, analytics, and software engineering.
+
+**Open to:** AI/ML Engineer · Machine Learning Engineer · Generative AI Engineer · LLM Engineer · Applied AI Engineer · AI Platform Engineer
 
 ---
 
 ## Experience
 
-| Role | Company | Period | Key metrics |
+| Role | Company | Period | Focus |
 |---|---|---|---|
-| Graduate Assistant, Data Analytics & BI Evaluation | University of South Florida | Sep 2024 – May 2026 | 700+ deliverables · 3 project cycles · ML model validation · KPI & dashboard QA |
-| Senior Systems Engineer, Data Engineering & Analytics | Infosys Ltd | Jan 2023 – Jul 2024 | 500K+ records/day · 1M+ validated · 10+ Power BI dashboards · 25% faster turnaround |
-| Systems Engineer, ETL Automation & Data Operations | Infosys Ltd | Sep 2021 – Dec 2022 | 40% less manual effort · 30% uptime gain · 100+ discrepancies resolved · SLA compliance |
+| AI/ML Engineer | Meta | May 2025 – Present | LLM post-training · RLHF/DPO · distributed training · RAG · model serving · MLOps |
+| Machine Learning Engineer | Amazon | Apr 2020 – Jul 2024 | Generative AI · RAG · multilingual QA · vector search · FastAPI · AWS ML platforms |
 
 ---
 
@@ -36,106 +43,126 @@ I build data systems and AI applications end-to-end — from Airflow pipelines a
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python · SQL · R · Scala · Java · C |
-| **Data Engineering** | Apache Airflow · Apache Spark · PySpark · Kafka · dbt · Databricks · Hadoop · ETL/ELT |
-| **Cloud — AWS** | S3 · Glue · EC2 · Step Functions · EMR · Redshift · Athena · Kinesis · CloudWatch · IAM |
-| **Cloud — Azure** | Azure Synapse · Data Factory |
-| **AI / GenAI** | LangChain · LangGraph · RAG · HuggingFace · Groq · Vector Search · Embeddings · Prompt Engineering |
-| **ML** | PyTorch · TensorFlow · Scikit-learn · XGBoost · SHAP · Pandas · NumPy |
-| **BI & Analytics** | Power BI · Tableau · Excel · A/B Testing · Hypothesis Testing · ANOVA · Forecasting · Regression |
-| **Databases** | PostgreSQL · MySQL · Oracle · MongoDB · Cassandra · CockroachDB · ChromaDB · SQLite |
-| **Dev / MLOps** | Docker · FastAPI · Flask · Git · GitHub Actions · CI/CD · Pytest · REST APIs · Bash/Shell |
+| **Languages** | Python · SQL · Bash · Java |
+| **Machine Learning & AI** | Machine Learning · Deep Learning · Generative AI · LLMs · RAG · RLHF · DPO · Reward Modeling · Fine-tuning · SFT · NLP · Embeddings · Semantic Search · Vector Search · Model Evaluation |
+| **AI/ML Frameworks** | PyTorch · Hugging Face Transformers · LangChain · LangGraph · Ray · vLLM · Triton Inference Server · MLflow |
+| **Distributed AI & Data** | Apache Spark · PySpark · Kafka · Elasticsearch · OpenSearch · FAISS · PyTorch FSDP · DeepSpeed · GPU Computing · dbt · Databricks |
+| **Cloud & MLOps** | AWS SageMaker · Bedrock · Lambda · S3 · DynamoDB · API Gateway · CloudWatch · EKS · Kubernetes · Docker · Airflow · CI/CD · Azure Synapse · Azure Data Factory |
+| **Backend & Architecture** | FastAPI · Flask · Microservices · Distributed Systems · REST APIs · gRPC · High Availability · Performance Optimization |
+| **Monitoring & DevOps** | Prometheus · Grafana · Datadog · Git · Linux · Observability · Automated Testing |
 
 ---
 
-## Projects
+# Projects
 
-### AI / GenAI
-| Project | Stack | Metric |
-|---|---|---|
-| [Autonomous AI Code Repair Platform](https://github.com/sucharitha1812/autonomous-ai-code-repair-platform) | LangGraph · LiteLLM · Docker · Pytest · Ruff · SQLite | 1,436 tests passing · 0 retries |
-| [RAG Document Intelligence Platform](https://github.com/sucharitha1812/rag-document-intelligence-platform) | LangChain · ChromaDB · FastAPI · React · HuggingFace · Groq | PDF · DOCX · TXT ingestion |
-| [Agentic Research Workflow Platform](https://github.com/sucharitha1812/agentic-research-workflow-platform) | LangGraph · FastAPI · Ollama · Llama 3.2 · Tavily | Multi-agent · self-correcting |
-| [Context-Aware Browser Assistant](https://github.com/sucharitha1812/context-aware-browser-assistant) | React · TypeScript · Chrome MV3 · Ollama | 100% local · zero API calls |
-| [Multimodal Audio Generation Platform](https://github.com/sucharitha1812/multimodal-audio-generation-platform) | PyTorch · AudioLDM · CLAP · HuggingFace | ~40% CLAPScore improvement at n=5 |
+## AI / GenAI
 
-### Data Engineering
-| Project | Stack | Metric |
+| Project | Stack | Focus / Result |
 |---|---|---|
-| [Real-Time IoT Air Quality Pipeline](https://github.com/sucharitha1812/real-time-iot-air-quality-pipeline) | Kafka · Spark Structured Streaming · MongoDB · Docker | 1,000+ events/min · <5s latency |
-| [Formula 1 Predictive Analytics Platform](https://github.com/sucharitha1812/formula1-predictive-analytics-platform) | PostgreSQL · dbt · Airflow · XGBoost · Power BI · Tableau | API ingestion → BI dashboards |
-| [MovieLens Data Warehouse](https://github.com/sucharitha1812/movielens-data-warehouse) | PostgreSQL · Python · SQL · Tableau · ETL | Star schema · 1 fact, 3 dims |
-| [StreamFlix DB Performance Optimization](https://github.com/sucharitha1812/streamflix-db-performance-optimization) | PostgreSQL · Indexing · Partitioning · EXPLAIN ANALYZE | Up to 96.4% query improvement |
-| [Hadoop E-Commerce Analytics](https://github.com/sucharitha1812/hadoop-ecommerce-analytics) | Hadoop · HDFS · YARN · MRJob · Docker | Dockerized cluster · MapReduce |
+| [Autonomous AI Code Repair Platform](https://github.com/sucharithag18/autonomous-ai-code-repair-platform) | LangGraph · LiteLLM · Docker · Pytest · Ruff · SQLite | Issue-to-patch workflow · sandbox validation · retry loops |
+| [RAG Document Intelligence Platform](https://github.com/sucharithag18/rag-document-intelligence-platform) | FastAPI · LlamaIndex · Pinecone · Hugging Face · LangChain · Mistral/OpenAI | PDF ingestion · semantic question answering |
+| [Agentic Research Workflow Platform](https://github.com/sucharithag18/agentic-research-workflow-platform) | LangGraph · FastAPI · Ollama · Tavily | Multi-agent · confidence verification · retry workflow |
+| [Context-Aware Browser Assistant](https://github.com/sucharithag18/context-aware-browser-assistant) | React · TypeScript · Chrome MV3 · Ollama · Llama 3.2 | Local browser AI assistant |
+| [Multimodal Audio Generation Platform](https://github.com/sucharithag18/multimodal-audio-generation-platform) | PyTorch · AudioLDM · CLAP · Hugging Face | Multi-candidate audio generation and ranking |
 
-### Data Science
-| Project | Stack | Metric |
-|---|---|---|
-| [AI Retail Demand Forecasting](https://github.com/sucharitha1812/ai-retail-demand-forecasting-dynamic-pricing) | PyTorch · TFT · PPO · Reinforcement Learning · SHAP | 10,000+ training timesteps |
-| [ECG Anomaly Detection VAE](https://github.com/sucharitha1812/ecg-anomaly-detection-vae) | PyTorch · VAE · Reconstruction Error · ROC-AUC | **0.96 AUC** |
-| [Mental Health Risk Prediction](https://github.com/sucharitha1812/mental-health-risk-prediction-system) | XGBoost · Flask · Docker · Scikit-learn | 83.3% validation recall |
-| [Obesity Classification ML](https://github.com/sucharitha1812/obesity-classification-ml) | Scikit-learn · SVM · Random Forest · RFE | 91.8% accuracy |
-| [Sign Language Recognition CNN](https://github.com/sucharitha1812/sign-language-recognition-cnn) | PyTorch · CNN | **98.93% accuracy · 24 ASL classes** |
+---
 
-### Analytics & BI
-| Project | Stack | Metric |
-|---|---|---|
-| [Air Pollution & Life Expectancy Analysis](https://github.com/sucharitha1812/air-pollution-life-expectancy-analysis) | Tableau · Data Visualization | 4 global datasets integrated |
-| [Advertising Campaign Analysis](https://github.com/sucharitha1812/advertising-campaign-analysis) | R · A/B Testing · Regression | Campaign lift analysis |
+## Data Engineering
 
-### NLP / Computer Vision
-| Project | Stack | Metric |
+| Project | Stack | Focus / Result |
 |---|---|---|
-| [Fake News Detection ML](https://github.com/sucharitha1812/fake-news-detection-ml) | NLP · TF-IDF · SVM · Scikit-learn | **93.4% accuracy** |
-| [AI-Generated Text Detection](https://github.com/sucharitha1812/ai-generated-text-detection-system) | BERT · Pinecone · Streamlit | BERT + perplexity scoring |
+| [Real-Time IoT Air Quality Pipeline](https://github.com/sucharithag18/real-time-iot-air-quality-pipeline) | Kafka · Spark Structured Streaming · MongoDB · Docker | Real-time streaming pipeline |
+| [Formula 1 Predictive Analytics Platform](https://github.com/sucharithag18/formula1-predictive-analytics-platform) | PostgreSQL · dbt · Airflow · XGBoost · Power BI · Tableau | API ingestion → analytics workflow |
+| [MovieLens Data Warehouse](https://github.com/sucharithag18/movielens-data-warehouse) | PostgreSQL · Python · SQL · Tableau · ETL | Star-schema data warehouse |
+| [StreamFlix DB Performance Optimization](https://github.com/sucharithag18/streamflix-db-performance-optimization) | PostgreSQL · Indexing · Partitioning · EXPLAIN ANALYZE | Database performance optimization |
+| [Hadoop E-Commerce Analytics](https://github.com/sucharithag18/hadoop-ecommerce-analytics) | Hadoop · HDFS · YARN · MRJob · Docker | Dockerized MapReduce analytics |
 
-### Databases
-| Project | Stack | Metric |
+---
+
+## Data Science / Machine Learning
+
+| Project | Stack | Focus / Result |
 |---|---|---|
-| [Multi-Region Fleet IoT DB Architecture](https://github.com/sucharitha1812/multi-region-fleet-iot-database-architecture) | CockroachDB · Docker · SQL | 3-node geo-partitioned cluster |
-| [Fleet Telemetry Cassandra Platform](https://github.com/sucharitha1812/fleet-telemetry-cassandra-platform) | Cassandra · CQL · Docker | Query-first schema design |
-| [Fleet Telemetry MongoDB Platform](https://github.com/sucharitha1812/fleet-telemetry-mongodb-platform) | MongoDB · JavaScript · Docker | Aggregation pipelines + indexing |
+| [AI Retail Demand Forecasting](https://github.com/sucharithag18/ai-retail-demand-forecasting-dynamic-pricing) | PyTorch · TFT · PPO · Reinforcement Learning · SHAP | Forecasting · dynamic pricing · 10,000+ timesteps |
+| [ECG Anomaly Detection VAE](https://github.com/sucharithag18/ecg-anomaly-detection-vae) | PyTorch · VAE · Reconstruction Error · ROC-AUC | Unsupervised anomaly detection |
+| [Mental Health Risk Prediction](https://github.com/sucharithag18/mental-health-risk-prediction-system) | XGBoost · Flask · Docker · Scikit-learn | ML inference API |
+| [Obesity Classification ML](https://github.com/sucharithag18/obesity-classification-ml) | Scikit-learn · SVM · Random Forest · RFE | Multi-class classification |
+| [Sign Language Recognition CNN](https://github.com/sucharithag18/sign-language-recognition-cnn) | PyTorch · CNN | Computer-vision classification |
+
+---
+
+## Analytics & BI
+
+| Project | Stack | Focus |
+|---|---|---|
+| [Air Pollution & Life Expectancy Analysis](https://github.com/sucharithag18/air-pollution-life-expectancy-analysis) | Tableau · Data Visualization | Global health and environmental analysis |
+| [Advertising Campaign Analysis](https://github.com/sucharithag18/advertising-campaign-analysis) | R · A/B Testing · Regression | Campaign-effectiveness analysis |
+
+---
+
+## NLP / Computer Vision
+
+| Project | Stack | Focus |
+|---|---|---|
+| [Fake News Detection ML](https://github.com/sucharithag18/fake-news-detection-ml) | NLP · TF-IDF · SVM · Scikit-learn | Text classification |
+| [AI-Generated Text Detection](https://github.com/sucharithag18/ai-generated-text-detection-system) | BERT · Pinecone · Streamlit | Human vs AI-generated text detection |
+
+---
+
+## Databases
+
+| Project | Stack | Focus |
+|---|---|---|
+| [Multi-Region Fleet IoT DB Architecture](https://github.com/sucharithag18/multi-region-fleet-iot-database-architecture) | CockroachDB · Docker · SQL | Geo-distributed database architecture |
+| [Fleet Telemetry Cassandra Platform](https://github.com/sucharithag18/fleet-telemetry-cassandra-platform) | Cassandra · CQL · Docker | Query-first NoSQL modeling |
+| [Fleet Telemetry MongoDB Platform](https://github.com/sucharithag18/fleet-telemetry-mongodb-platform) | MongoDB · JavaScript · Docker | Document modeling · aggregations · indexing |
 
 ---
 
 ## Education
 
-**M.S. in Artificial Intelligence and Business Analytics**
-University of South Florida · Tampa, FL ·  · **GPA 4.0 / 4.0**
-
-Coursework: Machine Learning · Deep Learning · Big Data · Data Warehousing · Advanced Database Systems · Cloud Solutions Architecture · Data Visualization · Business Statistics
-
-
+**Master of Science in Artificial Intelligence and Business Analytics**  
+University of South Florida
 
 ---
 
-## Repo structure
+## Certifications
 
-```
-sucharitha1812.github.io/
-├── index.html                        ← Main page
-├── README.md                         ← This file
-├── .nojekyll                         ← Disables Jekyll on GitHub Pages
+- Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750)
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)
+- NVIDIA Certified Professional – Generative AI LLMs
+- AWS Certified Machine Learning Engineer – Associate
+
+---
+
+## Repository Structure
+
+```text
+sucharithag18.github.io/
+├── index.html
+├── README.md
+├── .nojekyll
 ├── .gitignore
 ├── assets/
-│   ├── css/style.css                 ← All styles (DM Sans + DM Serif Display)
+│   ├── css/
+│   │   └── style.css
 │   ├── js/
-│   │   ├── main.js                   ← Cursor, scroll reveal, ticker, nav
-│   │   └── projects.js               ← 22 project cards with metrics
+│   │   ├── main.js
+│   │   └── projects.js
 │   └── images/
-│       ├── monogram.svg              ← SRG identity mark
-│       ├── og-preview.svg            ← Social share preview image
-│       └── companies/
-│           ├── infosys.svg
-│           └── usf.svg
 └── .github/
     └── workflows/
-        └── deploy.yml                ← Auto-deploy to GitHub Pages on push
+        └── deploy.yml
 ```
 
 ---
 
 <div align="center">
-Tampa, FL · Open to work · Open to relocate<br>
-<a href="mailto:sucharitha1812@gmail.com">sucharitha1812@gmail.com</a> · <a href="https://linkedin.com/in/sucharitha-gaddam">LinkedIn</a>
+
+**California · Open to work · Open to relocate**
+
+[Email](mailto:sucharithagaddam18@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/sucharitha22) ·
+[GitHub](https://github.com/sucharithag18)
+
 </div>
